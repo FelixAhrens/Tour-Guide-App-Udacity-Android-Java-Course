@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="reeperbahn">Reeperbahn</string>
+    <string name="reeperbahn_detail">The Reeperbahn is a entertainment and red light district in Hamburg\'s St. Pauli district.</string>
+    <string name="geotag_reeperbahn">geo:0:0?q=53.549812, 9.964041 (Reeperbahn)</string>
+    <string name="sternschanze">Sternschanze</string>
+    <string name="sternschanze_detail">After Reeperbahn, it\'s Hamburg\'s best known entertainment and nightlife district.</string>
+    <string name="geotag_sternschanze">geo:0:0?q=53.561667,9.962222 (Sternschanze)</string>
+    <string name="boilerman">THE BOILERMAN BAR</string>
+    <string name="boilerman_detail">Just a nice bar which serve whisky highball drinks.</string>
+    <string name="geotag_boilerman">geo:0:0?q=53.581531, 9.970490 (THE BOILERMAN BAR)</string>
+    <string name="ssgrill"><![CDATA[S&S Grill]]></string>
+    <string name="ssgrill_detail">One of the best kebab in twon!</string>
+    <string name="geotag_ssgrill">geo:0:0?q=53.583089, 9.966538 (S and S Grill)</string>
+    <string name="trattoria">Trattoria Salento</string>
+    <string name="trattoria_detail">You should try the parmesan penne with truffle!</string>
+    <string name="geotag_trattoria">geo:0:0?q=53.575242, 9.957298 (Trattoria Salento)</string>
+    <string name="ottos">Otto\'s Burger</string>
+    <string name="ottos_detail">Yummy!</string>
+    <string name="geotag_ottos">geo:0:0?q=53.561706, 9.965981(Otto\'s Burger)</string>
+    <string name="groeninger">Gröninger Privatbrauerei</string>
+    <string name="groeninger_detail">Beer and hearty food.</string>
+    <string name="geotag_groeninger">geo:0:0?q=53.547167, 9.996198(Gröninger Privatbrauerei Hamburg)</string>
+    <string name="events">No Events due to Corona</string>
+    <string name="events_detail">Stay at home!</string>
+    <string name="landung">Landungsbrücken</string>
+    <string name="landung_detail">Spectacular views, must-see historic waterfront buildings and a major public transport hub.</string>
+    <string name="geotag_landung">geo:0:0?q=53.545304, 9.967335(Landungsbrücken)</string>
+    <string name="elbtunnel">Old Elbe Tunnel</string>
+    <string name="elbtunnel_detail">Always free to pedestrians, connects the Landungsbrücken piers with the port.</string>
+    <string name="geotag_elbtunnel">geo:0:0?q=53.544125, 9.966490(Old Elbe Tunnel)</string>
+    <string name="warehouse">Warehouse District</string>
+    <string name="warehouse_detail">The century-old Speicherstadt is the world\'s largest contiguous warehouse complex.</string>
+    <string name="geotag_warehouse">geo:0:0?q=53.544827, 9.996754(Speicherstadt)</string>
+    <string name="michel">Michel</string>
+    <string name="michel_detail">The Michel is Hamburg\'s largest church. Its bell tower offers a stunning view over the city.</string>
+    <string name="geotag_michel">geo:0:0?q=53.548566, 9.978884(Michel)</string>
+    <string name="fishmarket">Fish Market</string>
+    <string name="fishmarket_detail">Every Sunday morning, the Hamburg Fish Market attracts thousands of visitors, night owls and early birds alike!</string>
+    <string name="geotag_fishmarket">geo:0:0?q=53.544893, 9.951714(Fish Market)</string>
+    <string name="alster">Alster</string>
+    <string name="alster_detail">The Inner and Outer Alster Lakes are a central part of Hamburg city life.</string>
+    <string name="geotag_alster">geo:0:0?q=53.553832, 9.992589(Alster)</string>
+    <string name="elbebeach">Elbe Beach</string>
+    <string name="elbebeach_detail">In summer, the Elbe beaches (Elbstrände) around Blankenese are a beloved location to spend sunny days.</string>
+    <string name="geotag_elbebeach">geo:0:0?q=53.544393, 9.907786(Elbe Beach)</string>
+
+
+</resources>

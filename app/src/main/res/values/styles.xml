@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="tab_layout">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="tabSelectedTextColor">@color/tab_selected_text_color</item>
+        <item name="tabIndicatorColor">@color/tab_indicator_color</item>
+        <item name="tabTextColor">@color/tab_text_color</item>
+        <item name="tabMode">fixed</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="tabTextAppearance">@style/tabTextSize</item>
+    </style>
+
+    <style name="tabTextSize">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="list_image_image_view">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_height">@dimen/list_image_size</item>
+        <item name="android:layout_width">@dimen/list_image_size</item>
+        <item name="android:layout_marginLeft">@dimen/image_margin_left</item>
+    </style>
+
+    <style name="list_first_text_view">
+        <item name="android:textSize">@dimen/first_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/list_first_text_color</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="list_second_text_view">
+        <item name="android:textSize">@dimen/second_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:gravity">top</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginRight">@dimen/text_marging_right</item>
+    </style>
+
+    <style name="list_icon_image_view">
+        <item name="android:layout_marginRight">@dimen/default_margin_horizontal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_height">@dimen/list_icon_size</item>
+        <item name="android:layout_width">@dimen/list_icon_size</item>
+    </style>
+
+    <!-- remove divider/ line between items in list_view.xml for all fragments
+     if individual dividers are to be changed use listView.setDivider(null); in fragment.java -->
+    <style name="remove_divider">
+        <item name="android:divider">@null</item>
+    </style>
+
+</resources>
